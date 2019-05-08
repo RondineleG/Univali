@@ -1,0 +1,10 @@
+Algorítimo Conversão de Moeda
+Inicio Algoritimo
+valorMensal =1500;
+Valor recebido por mês R$1500.
+quantos meses vai ficar ?
+quantidadeMes = 5;
+Qual a cotação atual do colar ?
+cotacaoDola = 3.5;
+O valor em dolar sera e : (quantidadeMes * quantidadeMes) / otacaoDola  :
+Fim Algoritimo

@@ -1,0 +1,3 @@
+F:/ADS - Univali/GerenciadorFinaceiro/cmake-build-debug/CMakeFiles/GerenciadorFinaceiro.dir
+F:/ADS - Univali/GerenciadorFinaceiro/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/ADS - Univali/GerenciadorFinaceiro/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+#include "resource.h"
+
+MEU_ICON  ICON "icon.ico"

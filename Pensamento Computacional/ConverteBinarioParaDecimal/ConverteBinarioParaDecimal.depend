@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1556632201 source:f:\ads - univali\convertebinarioparadecimal\main.c
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<stdio.h>
+	<windows.h>
+	<locale.h>
+

@@ -1,0 +1,60 @@
+Gerenciador de contas diarias
+
+variaveis
+
+int pq so recebe bnumero inteiros de 1 a 31
+int diaDoMes;
+
+char para descrer o nome da conta               
+char descricaoDaConta;
+
+para descrer o status da conta pago Ou Nao pago   
+char statusDaConta;
+
+float pq pode receber valores com casa decimais
+float valorDaConta;
+
+float pq pode receber valores da soma de todos os valorDaConta
+float valorTotal;
+
+Calcula o valor total pago e nao pago
+float valorTotalPago;
+float valorTotalNaoPago;
+
+
+
+Exemplo
+
+diaDoMes= 1;    
+     
+descricaoDaConta ='Luz';
+
+statusDaConta='Pago';
+
+valorDaConta=56.2;
+
+
+diaDoMes= 2;     
+    
+descricaoDaConta ='Luz';
+
+statusDaConta='Nao Pago';
+
+valorDaConta=56.2;
+
+    
+     
+descricaoDaConta ='Net';
+
+statusDaConta='Pago';
+
+valorDaConta=56.2;
+
+
+diaDoMes= 4;     
+    
+descricaoDaConta ='Gasolina';
+
+statusDaConta='Nao Pago';
+
+valorDaConta=56.2;
